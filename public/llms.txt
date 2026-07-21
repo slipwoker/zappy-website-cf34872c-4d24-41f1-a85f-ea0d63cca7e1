@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://peakmarketing.zappy5.app
 גלו איך שיווק פסגה הופכת אתגרים דיגיטליים להזדמנויות יוקרתיות. כלים חכמים, מומחי שיווק דיגיטלי והטבות בלעדיות מחכים לכם. הצעד הראשון להצלחה מתחיל כאן.
 
 ### תודה - שיווק פסגה
-https://example.com/thank-you
+https://peakmarketing.zappy5.app/thank-you
 שיווק פסגה - תודה - שיווק פסגה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://peakmarketing.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://peakmarketing.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://peakmarketing.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -59,6 +59,6 @@ Digital Marketing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://peakmarketing.zappy5.app/sitemap.xml
+- Robots: https://peakmarketing.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://peakmarketing.zappy5.app/llms-full.txt
