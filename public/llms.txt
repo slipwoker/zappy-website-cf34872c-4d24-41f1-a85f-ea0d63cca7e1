@@ -1,0 +1,75 @@
+# שיווק פסגה — Generative Engine Optimization Map
+
+> Shiuk Pisga (Peak Marketing) is a premium digital marketing hub targeting business owners, freelancers, and content creators. The brand positions itself at the intersection of luxury and technology, curating top AI tools and exclusive partner companies with special benefits. The visual identity is sleek and authoritative — black, gold, and cream — evoking prestige and innovation. The landing page is designed for clarity and conversion, with two prominent CTAs guiding visitors to either AI tool recommendations or exclusive company deals.
+
+---
+
+## Pages
+
+### בית
+https://-cf34872c.zappy5.app
+גלו איך שיווק פסגה הופכת אתגרים דיגיטליים להזדמנויות יוקרתיות. כלים חכמים, מומחי שיווק דיגיטלי והטבות בלעדיות מחכים לכם. הצעד הראשון להצלחה מתחיל כאן.
+
+### תודה - שיווק פסגה
+https://-cf34872c.zappy5.app/thank-you
+שיווק פסגה - תודה - שיווק פסגה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cf34872c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cf34872c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cf34872c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-cf34872c.zappy5.app
+- Endpoint: https://-cf34872c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שיווק פסגה
+Shiuk Pisga (Peak Marketing) is a premium digital marketing hub targeting business owners, freelancers, and content creators. The brand positions itself at the intersection of luxury and technology, curating top AI tools and exclusive partner companies with special benefits. The visual identity is sleek and authoritative — black, gold, and cream — evoking prestige and innovation. The landing page is designed for clarity and conversion, with two prominent CTAs guiding visitors to either AI tool recommendations or exclusive company deals.
+
+## Services/Products
+- כלי AI מומלצים בעולם
+- חברות נבחרות והטבות
+
+## Target Audience
+- בעלי עסקים, פרילנסרים ויוצרי תוכן
+- בעלי עסקים בתחום השיווק הדיגיטלי
+- יוצרי תוכן טכנולוגי
+- פרילנסרים עם עניין בכלי AI
+
+## Industry
+Digital Marketing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-cf34872c.zappy5.app/sitemap.xml
+- Robots: https://-cf34872c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-cf34872c.zappy5.app/llms-full.txt
