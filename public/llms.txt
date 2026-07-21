@@ -35,18 +35,6 @@ Information about WCAG compliance and accessibility features.
 - Email: mmaa564398@gmail.com
 - Address: ישראל
 
-### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
-- Method: POST
-- Content-Type: application/json
-- Fields:
-  - `name` (text, required)
-  - `email` (email, required)
-  - `phone` (tel, required)
-  - `message` (textarea, required)
-  - `privacy_consent` (checkbox, required)
-
 ---
 
 # Business Context (for LLM understanding)
