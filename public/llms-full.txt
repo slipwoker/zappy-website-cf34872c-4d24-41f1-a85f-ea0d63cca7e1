@@ -2,13 +2,13 @@
 
 Shiuk Pisga (Peak Marketing) is a premium digital marketing hub targeting business owners, freelancers, and content creators. The brand positions itself at the intersection of luxury and technology, curating top AI tools and exclusive partner companies with special benefits. The visual identity is sleek and authoritative — black, gold, and cream — evoking prestige and innovation. The landing page is designed for clarity and conversion, with two prominent CTAs guiding visitors to either AI tool recommendations or exclusive company deals.
 
-Source: https://-cf34872c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## קפיצת מדרגה דיגיטלית לעסק שלך — שיווק פסגה
 
-URL: https://-cf34872c.zappy5.app
+URL: https://example.com
 Description: גלו איך שיווק פסגה הופכת אתגרים דיגיטליים להזדמנויות יוקרתיות. כלים חכמים, מומחי שיווק דיגיטלי והטבות בלעדיות מחכים לכם. הצעד הראשון להצלחה מתחיל כאן.
 
 קפיצת מדרגה דיגיטלית לעסק שלך — שיווק פסגה
@@ -825,7 +825,7 @@ NOTION
 
 ## מדיניות פרטיות
 
-URL: https://-cf34872c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1098,7 +1098,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-cf34872c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1380,7 +1380,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-cf34872c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1681,7 +1681,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - שיווק פסגה
 
-URL: https://-cf34872c.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: שיווק פסגה - תודה - שיווק פסגה
 
 תודה - שיווק פסגה
